@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ACM-ICPC 
+- 🌱 I’m currently learning algorithm and go
+- 📫 How to reach me: 1872839448@qq.com or 18235499556@qq.com
