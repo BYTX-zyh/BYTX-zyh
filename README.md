@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **BYTX-zyh/BYTX-zyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ACM-ICPC 
 - 🌱 I’m currently learning algorithm and go
-- 📫 How to reach me: 1872839448@qq.com or 18235499556@qq.com
+- 📫 How to reach me: 18235499556@163.com
